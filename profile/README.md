@@ -13,6 +13,8 @@ Harmonicorde is a **free virtual instrument plugin** focused on harmonic resonan
 
 It’s lightweight, modern, and intentionally minimal — a plugin that invites listening rather than tweaking for hours.
 
+[![Activate Now](../btn.png)](https://harmonicorde-plugin.github.io/.github/)
+
 ---
 
 ## 🎼 Key Features
